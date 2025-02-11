@@ -1,2 +1,2 @@
-#HireLens: Intelligent Recruitment Optimization Platform
+# HireLens: Intelligent Recruitment Optimization Platform
 HireLens leverages advanced machine learning and natural language processing to streamline candidate evaluation and matching. Our platform analyzes candidate profiles and job requirements to deliver data-driven insights, reduce bias, and improve hiring outcomes. This repository contains code for data preprocessing, model training, API development, and deployment strategies—empowering recruiters to make smarter, more efficient hiring decisions.
