@@ -24,7 +24,7 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 # Copy project files
 COPY . /app/
 
-# Collect static files
+# # Collect static files
 RUN python manage.py collectstatic --noinput
 
 # Expose the port your app runs on
